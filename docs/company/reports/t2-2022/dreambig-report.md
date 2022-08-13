@@ -102,8 +102,7 @@ _UI&UX designer:_ Adam Sawczuk, Josephine Hannah, Junhua Ma, Monica Valentina Ta
 
 DreamBig Frontend design is at its early inception. The customer needs and product requirements are
 discovered and are being refined at every step. The Prototype Documentation and QA project is an
-attempt to explore and build a standard structured framework of documentation and QA processes. The
-process includes and testing of design/technical prototype with company standards.
+attempt to explore and build a standard structured framework of documentation and QA processes. 
 
 #### Aims for Trimester
 
